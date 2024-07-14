@@ -1,3 +1,6 @@
 Blackfin processor support for Ghidra:
 
 https://github.com/sualk/ghidra-blackfin
+R1 = R0 -|- R2 || [FP + 36] = R1 || NOP;
+LSETUP
+https://github.com/sualk/ghidra-blackfin.git
